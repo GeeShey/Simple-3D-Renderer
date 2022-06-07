@@ -4,3 +4,6 @@ Purpose: This was a project to understand fundamental 3D techniques such as proj
 
 Credits:
 Lari Norri: CD GX1 & GX2, FullSail University
+
+Current Version Screenshot
+![Capture](https://user-images.githubusercontent.com/43813027/172431487-9a85b52c-80e8-4c37-9225-fb3cdf47730b.PNG)
